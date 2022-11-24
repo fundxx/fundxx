@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/qEqiI3Oq7vBkoE236M" width="480" height="96" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-coding-coder-codingspace-qEqiI3Oq7vBkoE236M">via GIPHY</a></p>
+  <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="100"/>
 </div>
-
 <!--
 **fundxx/fundxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
